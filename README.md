@@ -1,4 +1,4 @@
-# Simple Linear Regression Projesi — README
+# Simple Linear Regression Projesi
 
 > **Özet:** Bu README, proje dizininde bulunan `1-SimpleLinearRegression.ipynb` projesini açıklar. 
 ---
